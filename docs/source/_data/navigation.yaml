@@ -1,23 +1,22 @@
 {
   "logo": {
-    "text": "Hexo Doc Theme Seed",
+    "text": "UCE Self-Challenge",
     "type": "link",
     "path": "index.html"
   },
   "main": [
     {
-      "text": "SWAGGER",
-      "type": "label"
+      "text": "关于Self-Challenge",
+      "type": "link",
+      "path": "introduction.html"
     },
     {
-      "text": "UI",
-      "type": "link",
-      "path": "swagger/ui.html"
+      "text": "每日一刷",
+      "type": "label",
     },
     {
-      "text": "To HTML",
-      "type": "link",
-      "path": "swagger/to-html.html"
+      "text": "每周挑战",
+      "type": "label",
     },
     {
       "text": "SUPPORT AND FEEDBACK",
@@ -26,7 +25,7 @@
     {
       "text": "Raise an Issue on Github",
       "type": "link",
-      "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new"
+      "path": "https://github.com/UCE-group/Self-Challenge/issues/new"
     }
   ]
 }
