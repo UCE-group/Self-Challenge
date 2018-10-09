@@ -9,9 +9,9 @@
     "hexo-cli": "^1.0.3",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-less": "^0.2.0",
-    "hexo-renderer-marked": "^0.2.10",
+    "hexo-renderer-marked": "^0.2.11",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-server": "^0.2.1",
-    "hexo-theme-doc": "^0.1.0"
+    "hexo-theme-doc": "^0.1.2"
   }
 }
